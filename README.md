@@ -22,4 +22,6 @@ go build .
 ```
 
 ## How to use
+```bash
 fec auto.json
+```

@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fec
+  annotations:
+    github.com/project-slug: mental12345/fec
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
